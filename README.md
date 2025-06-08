@@ -38,8 +38,13 @@ This project is a modern, clean redesign of the skip selection page that maintai
 
 1. Clone the repository:
 \`\`\`bash
+<<<<<<< HEAD
 git clone https://github.com/nour-derwich/we-want-waste.git
 cd we-want-waste
+=======
+git clone [repository-url]
+cd skip-selector-redesign
+>>>>>>> 364cf39 (Initialized repository for project Next js redesig)
 \`\`\`
 
 2. Install dependencies:
